@@ -22,7 +22,7 @@
   "dependencies": {
     "@neutrinojs/banner": "^8.2.0",
     "@neutrinojs/react": "^8.2.0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "webpack-node-externals": "^1.6.0"
   },
   "peerDependencies": {

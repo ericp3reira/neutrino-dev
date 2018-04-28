@@ -22,7 +22,7 @@
     "yarn": ">=1.2.1"
   },
   "dependencies": {
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "file-loader": "^1.0.0",
     "url-loader": "^1.0.0"
   },

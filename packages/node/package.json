@@ -30,7 +30,7 @@
     "@neutrinojs/start-server": "^8.2.0",
     "babel-plugin-dynamic-import-node": "^1.2.0",
     "babel-preset-env": "^1.6.0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "ramda": "^0.25.0",
     "webpack": "^4.6.0",
     "webpack-node-externals": "^1.6.0"
